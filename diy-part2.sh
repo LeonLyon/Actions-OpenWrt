@@ -18,6 +18,3 @@
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
-# 删除冲突的 fchomo 插件
-rm -rf package/feeds/*/luci-app-fchomo
-rm -rf package/feeds/*/nikki
