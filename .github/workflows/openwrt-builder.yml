@@ -22,7 +22,7 @@ on:
         default: 'true'   # 这里改成 'true' 可以让它默认勾选
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede  
+  REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
