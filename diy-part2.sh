@@ -22,3 +22,4 @@
 #删除冲突的插件
 find package/ -name "luci-app-bypass" -exec rm -rf {} +
 find package/ -name "luci-app-fchomo" -exec rm -rf {} +
+find package/ -name "unblockneteasemusic" -exec rm -rf {} +
